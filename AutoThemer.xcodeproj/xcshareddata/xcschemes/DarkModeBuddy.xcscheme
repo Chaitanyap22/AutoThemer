@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1320"
+   LastUpgradeVersion = "1430"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -17,7 +17,7 @@
                BlueprintIdentifier = "F479410525E5EA5A001BB982"
                BuildableName = "AutoThemer.app"
                BlueprintName = "AutoThemer"
-               ReferencedContainer = "container:DarkModeBuddy.xcodeproj">
+               ReferencedContainer = "container:AutoThemer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,7 +47,7 @@
             BlueprintIdentifier = "F479410525E5EA5A001BB982"
             BuildableName = "AutoThemer.app"
             BlueprintName = "AutoThemer"
-            ReferencedContainer = "container:DarkModeBuddy.xcodeproj">
+            ReferencedContainer = "container:AutoThemer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <CommandLineArguments>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "F479410525E5EA5A001BB982"
             BuildableName = "AutoThemer.app"
             BlueprintName = "AutoThemer"
-            ReferencedContainer = "container:DarkModeBuddy.xcodeproj">
+            ReferencedContainer = "container:AutoThemer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

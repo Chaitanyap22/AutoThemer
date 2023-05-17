@@ -2,7 +2,7 @@
 //  AutoThemerCore.h
 //  AutoThemerCore
 //
-//  Created by Guilherme Rambo on 23/02/21.
+//  Created by Chaitanya Pawar on 23/02/21.
 //
 
 #import <Foundation/Foundation.h>
@@ -18,7 +18,7 @@ FOUNDATION_EXPORT const unsigned char AutoThemerCoreVersionString[];
 extern int SLSGetAppearanceThemeLegacy(void);
 extern void SLSSetAppearanceThemeLegacy(int);
 
-#define kAutoThemerCoreSubsystemName "com.chaitanyap.AutoThemerCore"
+#define kAutoThemerCoreSubsystemName "codes.rambo.AutoThemerCore"
 
 #import <AutoThemerCore/DMBAmbientLightSensor.h>
 #import <AutoThemerCore/SharedFileList.h>

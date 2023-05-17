@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AutoThemer
 //
-//  Created by Guilherme Rambo on 23/02/21.
+//  Created by Chaitanya Pawar on 23/02/21.
 //
 
 import Cocoa

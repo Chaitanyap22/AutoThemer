@@ -2,8 +2,8 @@
 //  SharedFileList.h
 //  NoiseBuddy
 //
-//  Created by Guilherme Rambo on 13/11/19.
-//  Copyright © 2019 Guilherme Rambo. All rights reserved.
+//  Created by Chaitanya Pawar on 13/11/19.
+//  Copyright © 2019 Chaitanya Pawar. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

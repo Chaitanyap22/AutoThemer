@@ -2,7 +2,7 @@
 //  UnsupportedMacView.swift
 //  AutoThemer
 //
-//  Created by Guilherme Rambo on 24/02/21.
+//  Created by Chaitanya Pawar on 24/02/21.
 //
 
 import SwiftUI

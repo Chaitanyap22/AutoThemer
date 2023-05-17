@@ -2,7 +2,7 @@
 //  ClamshellStateChecker.swift
 //  clamshellstate
 //
-//  Created by Guilherme Rambo on 25/02/21.
+//  Created by Chaitanya Pawar on 25/02/21.
 //
 
 import Foundation
